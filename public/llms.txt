@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-87340fe6.zappy5.app
+https://example.com
 מחפשים מסעדה הודית קרובה אליי או טעמים מקסיקניים מפתיעים? רפי מזמין אתכם לחוויית טעמים ייחודית עם תפריט עשיר ואפשרות להזמין שולחן בקלות. בואו לגלות את המטבח שמדבר אליכם עוד היום!
 
 ### תפריט
-https://-87340fe6.zappy5.app/menu
+https://example.com/menu
 טעמים מהודו ומקסיקו נפגשים בתפריט של רפי! דפדפו בין מנות מעוררות תיאבון, מתובלות ומלאות אופי, וגלו למה אנחנו המסעדה ההודית שכולם מדברים עליה. התפריט מחכה לכם!
 
 ### אודות
-https://-87340fe6.zappy5.app/about
+https://example.com/about
 רפי נולד מאהבה למטבח ההודי והמקסיקני, עם תשוקה לאירוח חם ואותנטי. הכירו את האנשים, החזון והטעמים שהופכים אותנו למסעדה מקסיקנית קרובה אליי שפשוט חייבים לנסות.
 
 ### הזמנות
-https://-87340fe6.zappy5.app/reservations
+https://example.com/reservations
 רוצים להבטיח מקום במסעדה המקסיקנית הקרובה אליכם? ברפי תוכלו להזמין שולחן בקליק אחד ולבלות ערב בלתי נשכח עם אוכל מעולה. מקומות מתמלאים מהר — הזמינו עוד היום!
 
 ### צור קשר
-https://-87340fe6.zappy5.app/contact
+https://example.com/contact
 יש שאלות על התפריט או רוצים לתאם אירוע מיוחד? צרו קשר עם רפי, המסעדה האתיופית הקרובה אליכם שמציעה גם טעמים הודיים ומקסיקניים. נשמח לשמוע מכם ולעזור בכל בקשה!
 
 ### תודה שפניתם אלינו
-https://-87340fe6.zappy5.app/thank-you
+https://example.com/thank-you
 רפי - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-87340fe6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-87340fe6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-87340fe6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-87340fe6.zappy5.app/reservations
-- Endpoint: https://-87340fe6.zappy5.app/api/email/contact-form
+- URL: https://example.com/reservations
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -85,6 +85,6 @@ Restaurant
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-87340fe6.zappy5.app/sitemap.xml
-- Robots: https://-87340fe6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-87340fe6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
