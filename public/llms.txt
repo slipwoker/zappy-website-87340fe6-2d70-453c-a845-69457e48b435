@@ -1,0 +1,90 @@
+# רפי — Generative Engine Optimization Map
+
+> Rafi is a restaurant that wants to showcase its menu online and allow customers to reserve tables. The site should serve as both a digital menu display and a reservation platform, reflecting the restaurant's identity and making it easy for diners to browse dishes and book a spot.
+
+---
+
+## Pages
+
+### בית
+https://-87340fe6.zappy5.app
+מחפשים מסעדה הודית קרובה אליי או טעמים מקסיקניים מפתיעים? רפי מזמין אתכם לחוויית טעמים ייחודית עם תפריט עשיר ואפשרות להזמין שולחן בקלות. בואו לגלות את המטבח שמדבר אליכם עוד היום!
+
+### תפריט
+https://-87340fe6.zappy5.app/menu
+טעמים מהודו ומקסיקו נפגשים בתפריט של רפי! דפדפו בין מנות מעוררות תיאבון, מתובלות ומלאות אופי, וגלו למה אנחנו המסעדה ההודית שכולם מדברים עליה. התפריט מחכה לכם!
+
+### אודות
+https://-87340fe6.zappy5.app/about
+רפי נולד מאהבה למטבח ההודי והמקסיקני, עם תשוקה לאירוח חם ואותנטי. הכירו את האנשים, החזון והטעמים שהופכים אותנו למסעדה מקסיקנית קרובה אליי שפשוט חייבים לנסות.
+
+### הזמנות
+https://-87340fe6.zappy5.app/reservations
+רוצים להבטיח מקום במסעדה המקסיקנית הקרובה אליכם? ברפי תוכלו להזמין שולחן בקליק אחד ולבלות ערב בלתי נשכח עם אוכל מעולה. מקומות מתמלאים מהר — הזמינו עוד היום!
+
+### צור קשר
+https://-87340fe6.zappy5.app/contact
+יש שאלות על התפריט או רוצים לתאם אירוע מיוחד? צרו קשר עם רפי, המסעדה האתיופית הקרובה אליכם שמציעה גם טעמים הודיים ומקסיקניים. נשמח לשמוע מכם ולעזור בכל בקשה!
+
+### תודה שפניתם אלינו
+https://-87340fe6.zappy5.app/thank-you
+רפי - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-87340fe6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-87340fe6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-87340fe6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-87340fe6.zappy5.app/reservations
+- Endpoint: https://-87340fe6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רפי
+Rafi is a restaurant that wants to showcase its menu online and allow customers to reserve tables. The site should serve as both a digital menu display and a reservation platform, reflecting the restaurant's identity and making it easy for diners to browse dishes and book a spot.
+
+## Services/Products
+- תפריט מסעדה
+- הזמנת מקום
+
+## Target Audience
+- משפחות חובבות בילוי
+- זוגות לארוחות רומנטיות
+- אנשי עסקים לארוחות צהריים
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-87340fe6.zappy5.app/sitemap.xml
+- Robots: https://-87340fe6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-87340fe6.zappy5.app/llms-full.txt
